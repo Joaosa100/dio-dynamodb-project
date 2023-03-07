@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Angra"},
+                  "SongTitle": {"S": "No Pain for the Dead"},
+                  "AlbumTitle": {"S": "Temple of Shadows"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Angra"},
+                  "SongTitle": {"S": "The Shadow Hunter"},
+                  "AlbumTitle": {"S": "Temple of Shadows"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Angra"},
+                  "SongTitle": {"S": "Late Redemption"},
+                  "AlbumTitle": {"S": "Temple of Shadows"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        }
+      ]
+}
